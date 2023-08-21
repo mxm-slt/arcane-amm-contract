@@ -1,4 +1,3 @@
 outputs/
 build/*
 .env
-program.json

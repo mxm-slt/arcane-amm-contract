@@ -1,0 +1,10 @@
+{
+  "program": "arcane_ammswap_000003.aleo",
+  "version": "1",
+  "description": "Arcane AMM DEX",
+  "development": {
+      "private_key": "APrivateKey1zkp2PpGQjh4vkfyhcbA7tZFEEmSixuxuKsorYibj6HZb8Bt",
+      "address": "aleo1zcm3k3tldz8a65x50yjm6swvn3xrlkvtq6j9gpuuwn7zvr4xvsgseptusc"
+  },
+  "license": "GPL 3.0"
+}
